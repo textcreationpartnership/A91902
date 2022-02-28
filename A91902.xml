@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Stafford-shires misery, set forth in a true relation of the barbarous cruelty of the forces raised against the Parliament. Sent in a letter from Stafford, by Captaine William Robinson, to a gentleman in London, and to be presented to Mr. Speaker. Published according to order.</title>
+            <author>Robinson, William, Captain.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91902</idno>
+            <idno type="STC">Wing R1723</idno>
+            <idno type="STC">Thomason E61_12</idno>
+            <idno type="STC">ESTC R18894</idno>
+            <idno type="EEBO-CITATION">99860489</idno>
+            <idno type="PROQUEST">99860489</idno>
+            <idno type="VID">155341</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91902)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155341)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E61[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Stafford-shires misery, set forth in a true relation of the barbarous cruelty of the forces raised against the Parliament. Sent in a letter from Stafford, by Captaine William Robinson, to a gentleman in London, and to be presented to Mr. Speaker. Published according to order.</title>
+                  <author>Robinson, William, Captain.</author>
+               </titleStmt>
+               <extent>[2], 8 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>July 20. Printed by G. Dexter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through on all pages, with considerable loss of text.</note>
+                  <note>Page 6 is misnumbered 8.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Staffordshire (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155341:1" rendition="simple:additions"/>
+            <p>Stafford-Shires MISERY, SET FORTH IN A true Relation of the Barbarous Cru<g ref="char:EOLhyphen"/>elty of the FORCES Raiſed againſt the PARLIAMENT.</p>
+            <p>SENT In a Letter from <hi>STAFFORD,</hi> by Captaine <hi>William Robinſon,</hi> to a Gentleman in LONDON, and to be preſented to Mr. SPEAKER.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> July 20. Printed by <hi>G. Dexter,</hi> 1643.</p>
+            <pb facs="tcp:155341:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:155341:2"/>
+            <head>STAFFORD-SHIRES Miſery: Set forth in a true RELATION FROM STAFFORD</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE convenience of this Meſſenger invites me to alter my reſolution, which was to have ſilenced my penne, untill it could have reported ſome Newes, which you and my other Friends could have took con<g ref="char:EOLunhyphen"/>tent in: But fearing leaſt you ſhould be too much deiected by our Enemyes vau<g ref="char:EOLhyphen"/>pouring of a great Victory obtained againſt our <hi>Stafford ſhi<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> forces forever
+<pb n="4" facs="tcp:155341:3"/>
+allwayes repreſent their good ſucceſſes in a multiplying glaſſe, and their bad ones in the wrong end of the perſpec<g ref="char:EOLhyphen"/>tive.) I will faithfully, though accor<g ref="char:EOLhyphen"/>ding to the Poſts haſte, give you a Re<g ref="char:EOLhyphen"/>lation of the Afflictions God was plea<g ref="char:EOLhyphen"/>ſed to lay upon us at <hi>Burton.</hi> The <hi>Queens</hi> Army comming to <hi>Aſhby,</hi> preſently made it their Care to free the Inhabi<g ref="char:EOLhyphen"/>tants of <hi>Burton</hi> (who are generally wall affected to the Parliament from the op<g ref="char:EOLhyphen"/>preſſion of the Proteſtants their friends: and therefore ſent 27 Colours of Foote, and about as Colours of Horſe, to doe Execution (according to the knowne Lawes of the Land) upon the Parlia<g ref="char:EOLhyphen"/>ment Forces reſiding there: They fa<g ref="char:EOLhyphen"/>ced it upon <hi>Thurſday</hi> laſt, firſt with their Horſe by breake of day in the Morning who were forced to Retreat, afterward about 5. and 6<g ref="char:punc">▪</g> of the Clocke they retur<g ref="char:EOLhyphen"/>ned with the Foore preſently the Ser<g ref="char:EOLhyphen"/>vice began to grow very hot, the Town having b<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ne twice Summoned by a
+<pb n="5" facs="tcp:155341:3"/>
+Trumpet to yeeld, but bravely reſolved to fight it out, which they did ſtill it was neere <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in a Clock<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at Night, with the loſſe onely of a d<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Men, and ſlew as I am credibly informed by thoe who werein the fight divers hundreds of the Enemy: Our Souldiers Muſquets grew ſo hot, that very many of them flew in pieces; very many more had their hands bliſtred, merly with the heat of Pieces.</p>
+            <p>The Enemy was reſolved to have the Town, though it coſt them never ſo deare, and therfore expoſed their men (according to their <unclear>valew</unclear>) like Beaſts to the ſlaughter, which our Souldiers ſoone perceiving, uſed their advantage freely; till at laſt being wearyed with killing, tired with the whole dayes ſer<g ref="char:EOLhyphen"/>vice, and oppreſſed by an overdaring Multitude of the Enemy, they were driven from their Guards, and then ſoon left the Town.</p>
+            <p>Braue Colonell <hi>Houghton,</hi> his Lieu<g ref="char:EOLhyphen"/>tenant
+<pb n="2" facs="tcp:155341:4"/>
+Colonell <hi>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ders,</hi> Captaine <hi>Wat<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>,</hi> and diuers other Commanders, whom I am not acquainted with, all men neuer enough to be honoured, after Quarter demanded and granted, after all very grieuouſly wounded, and we cannot yet learn who are dead, and who liuing of them.</p>
+            <p>Our Foot Souldiers after Quarter promiſed, they put up in the Tower of the Church, where the Bells hanged, and then blew up the Tower with Gunpowder: but through Gods infi<g ref="char:EOLhyphen"/>nite mercy to the admiration of all men, they were all preſerued from death, ex<g ref="char:EOLhyphen"/>cept 10 or 12. though many wounded; the uiolence of the blow opened the Church doores, and none durſt come neare: moſt of them eſcaped.</p>
+            <p>The Townſmen eſcaped not much better; for they wounded many, killed many and ſpoyled all: and when they had left the Town not worth <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pence,
+<pb n="3" facs="tcp:155341:4"/>
+they ſet it on fire<g ref="char:punc">▪</g> Thus the Scripture is fullfilled, <hi>The mercies of the wicked are cruelty.</hi> See what the whole Kindome is to expect from the Moores, Wal<g ref="char:EOLhyphen"/>loons, French, Spaniſh and Iriſh, who are called into the Land to be Aſſer<g ref="char:EOLunhyphen"/>tours of the proteſtant Religion, the known Laws of the Land, the iuſt Priviledges of Parliament and the Li<g ref="char:EOLhyphen"/>berty of the Subiect.</p>
+            <p>We had about 100. Souldiers<g ref="char:punc">▪</g> one iron Piece one Caſe of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and one ſmall Drake in <hi>Burton.</hi> Many of the Foot Souldies eſcaped, but <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Commandes; and moſt of the Townſ<g ref="char:EOLhyphen"/>men of any quality were carryed <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>way priſoners.</p>
+            <p>We expect that Army euery houre at <hi>Stafford,</hi> and prepare for their entertain<g ref="char:EOLunhyphen"/>ment. Ever ſince my departure from <hi>London,</hi> I have been perpetually upon ſervice, for theſe <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> or 7 dayes hunting the Cavaliers of this County, and thoſe of the Lord <hi>Capells</hi> Army, which lyes
+<pb n="8" facs="tcp:155341:5"/>
+upon this county now from place to place. We heare that the Lord <hi>Capells</hi> Forces, Collonell Sands, and Collonell <hi>Chudleys,</hi> are all to meet the Queens this day, or to morrow, and when they have played their <hi>Rex</hi> in theſe parts, are all to march up to the King to <hi>Oxford.</hi> If the Armyes in the Weſt move by the ſame Compaſſe, the buſineſſe at <hi>Oxford</hi> will prove difficult except the Queſtion be ſtated before their commi<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:punc">▪</g> As oft as God ſhall pleaſe to grant opportuni<g ref="char:EOLhyphen"/>ties you ſhall heare how things ſtand where I am.</p>
+            <p>If you are known to Mr. Speaker, preſent my humble ſervice to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and relate this unto him, which I would haue done my ſelfe, could the Meſſen<g ref="char:EOLhyphen"/>gers time haue giuen me leave.</p>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
